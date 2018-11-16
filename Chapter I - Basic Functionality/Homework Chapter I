@@ -1,0 +1,12 @@
+Your homework for this chapter!
+
+If statements homework:
+  1. From a three long list input check if a triangle can be constructed if the inputs are numbers. If the inputs are not numbers print        out a warning to the user. Hint: Remember the triangle inequality rule!
+Loop homework:
+  1. Print out the numbers of the fibbonacci numbers (https://en.wikipedia.org/wiki/Fibonacci_number) up to a upper limit L set by user          input.
+  2. Lets build a game. Let the program set a random integer bound between a lower bound "a" and an upper bound "b". The bounds are set by      the user. You can use the in-built random generator: random.randint(a, b), where a is the lower and b the upper bound! Then the user      must input numbers until he guesses the correct one. At each guess the program must tell the user if he guessed to high or too low.
+Function homework:
+  1. Construct a function named Fibonnaci(upper)! The function takes one argument "upper" which is the upper bound for the list of              Fibonnaci numbers generated. The output of the function is the list of Fibonaci numbers up to "upper"!
+  2. Construct a function Bisection(list, elem) that takes two arguments. Argument "list" is a list of numbers with whatever size and          "elem" is the number we wish to find in the list. The function should find the position of "elem" in the "list" using the bisection        method (https://en.wikipedia.org/wiki/Bisection_method). If "elem" is not found in the list, let the function return the None              object. 
+  
+Reward: 25 % of the author reward pool for the post for "Guide - Chapter I", will be split equally amongs all who manage to find working solutions to all the problems outlined above until Sunday, 25. 11. 2018.
